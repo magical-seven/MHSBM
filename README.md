@@ -1,2 +1,2 @@
 # MHSBM
-Used to implement the model MHSBM in the paper: Community and hypergraph inference in multiple hypergraphs
+Used to implement the model MHSBM in the paper: Inferring community structure in multiple hypergraphs via stochastic block models
