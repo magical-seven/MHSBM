@@ -591,7 +591,7 @@ class MultiHyMMSBM:
             hye_weights,
     ):  # 层内w的更新
         """
-        EM or MAP updates for the affinity matrix w.
+        EM updates for the affinity matrix w.
         层内w的更新
         """
         u, w = self.u[layername], self.w[layername]
